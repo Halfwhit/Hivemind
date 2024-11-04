@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7a04daf1-67ba-4f5b-ba07-412d1f7c64b4
+:END:
+#+title: README.org
+The Hivemind is Halfwhit's second brain, built using org-roam in emacs following a zettlekasten methodology
